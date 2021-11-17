@@ -8,9 +8,7 @@
 
 	👨🏽‍🎓 Formando em Análise e Desenvolvimento de Sistemas pela UNIFACS.
 	
-	:man_technologist: Aplicando-se em **Desenvolvimento Web** e **Mobile**.
-	
-	:hourglass: Interesse futuro em me aprofundar em **automação de processos**.
+	Aplicando-se em Desenvolvimento Web e Mobile.
 
 ------
 
