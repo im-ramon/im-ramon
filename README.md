@@ -57,4 +57,4 @@
 ## 🚀 Contribuições:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=im-ramon&repo=opencartbrasil&theme=gotham)](https://github.com/opencartbrasil/opencartbrasil)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=im-ramon&repo=translated-content&theme=gotham)](https://github.com/mdn/translated-content)
