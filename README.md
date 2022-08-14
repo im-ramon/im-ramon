@@ -6,7 +6,7 @@
 
 ## 👨🏾‍🦱 Um pouco sobre mim...
 
-	👨🏽‍🎓 Formando em Análise e Desenvolvimento de Sistemas pela UNIFACS.
+	👨🏽‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 	
 	Aplicando-se em Desenvolvimento Web e Mobile.
 
